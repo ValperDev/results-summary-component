@@ -244,5 +244,15 @@ main {
         -moz-border-radius: 0 0 22px 22px;
         -ms-border-radius: 0 0 22px 22px;
         -o-border-radius: 0 0 22px 22px;
+        gap: 1em;
+    }
+
+    .result__count {
+        height: 140px;
+        width: 140px;
+    }
+
+    .result__score {
+        font-size: 2.8em;
     }
 }
